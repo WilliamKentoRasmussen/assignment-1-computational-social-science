@@ -11,7 +11,7 @@ https://openalex.org/A5019523274,Josef Ginnerskov,https://api.openalex.org/works
 https://openalex.org/A5091135953,Jacob Habinek,https://api.openalex.org/works?filter=author.id:A5091135953,5.0,23.0,SE
 https://openalex.org/A5079517520,Petter Holme,https://api.openalex.org/works?filter=author.id:A5079517520,51.0,252.0,JP
 https://openalex.org/A5042192372,Andreas Jungherr,https://api.openalex.org/works?filter=author.id:A5042192372,31.0,137.0,DE
-https://openalex.org/A5075116664,Juhi Kulshrestha,https://api.openalex.org/works?filter=author.id:A5075116664,16.0,56.0,FI
+https://openalex.org/A5075116664,Juhi Kulshrestha,https://api.openalex.org/works?filter=author.id:A5075116664,17.0,56.0,FI
 https://openalex.org/A5074548613,Erika Fille Legara,https://api.openalex.org/works?filter=author.id:A5074548613,13.0,48.0,PH
 https://openalex.org/A5010526266,May Lim,https://api.openalex.org/works?filter=author.id:A5010526266,35.0,77.0,AU
 https://openalex.org/A5084602527,Laura Lotero,https://api.openalex.org/works?filter=author.id:A5084602527,11.0,38.0,
@@ -50,7 +50,7 @@ https://openalex.org/A5064753440,Dietram A. Scheufele,https://api.openalex.org/w
 https://openalex.org/A5004566032,Emőke-Ágnes Horvát,https://api.openalex.org/works?filter=author.id:A5004566032,15.0,72.0,US
 https://openalex.org/A5069426228,Caspar J. Van Lissa,https://api.openalex.org/works?filter=author.id:A5069426228,36.0,200.0,NL
 https://openalex.org/A5035315636,Jorge Varela Barreras,https://api.openalex.org/works?filter=author.id:A5035315636,16.0,46.0,ES
-https://openalex.org/A5052819678,L. Li,https://api.openalex.org/works?filter=author.id:A5052819678,184.0,3385.0,CN
+https://openalex.org/A5052819678,L. Li,https://api.openalex.org/works?filter=author.id:A5052819678,184.0,3383.0,CN
 https://openalex.org/A5100430399,Zhong Chen,https://api.openalex.org/works?filter=author.id:A5100430399,104.0,1232.0,US
 https://openalex.org/A5027319334,Cate Heine,https://api.openalex.org/works?filter=author.id:A5027319334,7.0,21.0,GB
 https://openalex.org/A5015739831,Andy Zhou,https://api.openalex.org/works?filter=author.id:A5015739831,11.0,50.0,DK
@@ -175,12 +175,12 @@ https://openalex.org/A5109819791,Jonathan Sakunkoo,https://api.openalex.org/work
 https://openalex.org/A5109819792,Annabella Sakunkoo,https://api.openalex.org/works?filter=author.id:A5109819792,0.0,5.0,US
 https://openalex.org/A5119875601,Daniele Barolo,https://api.openalex.org/works?filter=author.id:A5119875601,0.0,1.0,
 https://openalex.org/A5064876416,Raluca Bievel Radulescu,https://api.openalex.org/works?filter=author.id:A5064876416,8.0,18.0,RO
-https://openalex.org/A5074129504,Fariba Karimi,https://api.openalex.org/works?filter=author.id:A5074129504,17.0,111.0,
+https://openalex.org/A5074129504,Fariba Karimi,https://api.openalex.org/works?filter=author.id:A5074129504,17.0,111.0,AT
 https://openalex.org/A5081390951,Luis Galárraga,https://api.openalex.org/works?filter=author.id:A5081390951,14.0,74.0,FR
 https://openalex.org/A5040730614,Gonzalo Gabriel Méndez,https://api.openalex.org/works?filter=author.id:A5040730614,9.0,39.0,EC
 https://openalex.org/A5014548243,Lisette Espín-Noboa,https://api.openalex.org/works?filter=author.id:A5014548243,8.0,29.0,
 https://openalex.org/A5018646665,Hope Schroeder,https://api.openalex.org/works?filter=author.id:A5018646665,5.0,15.0,US
-https://openalex.org/A5004281470,Deb Roy,https://api.openalex.org/works?filter=author.id:A5004281470,42.0,274.0,DE
+https://openalex.org/A5004281470,Deb Roy,https://api.openalex.org/works?filter=author.id:A5004281470,42.0,275.0,DE
 https://openalex.org/A5026429870,Jad Kabbara,https://api.openalex.org/works?filter=author.id:A5026429870,8.0,32.0,
 https://openalex.org/A5031039880,Kristina Gligorić,https://api.openalex.org/works?filter=author.id:A5031039880,10.0,48.0,
 https://openalex.org/A5072495084,Emmanuel J. Candès,https://api.openalex.org/works?filter=author.id:A5072495084,88.0,299.0,
@@ -198,7 +198,7 @@ https://openalex.org/A5038255653,Erik Brynjolfsson,https://api.openalex.org/work
 https://openalex.org/A5051687457,Hiromu Yakura,https://api.openalex.org/works?filter=author.id:A5051687457,14.0,46.0,DE
 https://openalex.org/A5091243468,Ezequiel López‐Rubio,https://api.openalex.org/works?filter=author.id:A5091243468,25.0,220.0,
 https://openalex.org/A5073286477,Sergio Ignacio Serna‐Garcés,https://api.openalex.org/works?filter=author.id:A5073286477,10.0,65.0,CO
-https://openalex.org/A5076308776,Prateek K. Gupta,https://api.openalex.org/works?filter=author.id:A5076308776,27.0,116.0,US
+https://openalex.org/A5076308776,Prateek K. Gupta,https://api.openalex.org/works?filter=author.id:A5076308776,27.0,117.0,
 https://openalex.org/A5073502448,Yakov Bart,https://api.openalex.org/works?filter=author.id:A5073502448,18.0,85.0,US
 https://openalex.org/A5062663565,Majid Elahi Shirvan,https://api.openalex.org/works?filter=author.id:A5062663565,26.0,105.0,IR
 https://openalex.org/A5028493599,Thomas Müller,https://api.openalex.org/works?filter=author.id:A5028493599,8.0,49.0,FR
@@ -303,7 +303,7 @@ https://openalex.org/A5120298484,Cathy DiGennaro,https://api.openalex.org/works?
 https://openalex.org/A5049240073,Vicky Chuqiao Yang,https://api.openalex.org/works?filter=author.id:A5049240073,8.0,45.0,JP
 https://openalex.org/A5015651100,Antoine Vendeville,https://api.openalex.org/works?filter=author.id:A5015651100,4.0,21.0,FR
 https://openalex.org/A5073972555,Jimena Royo-Letelier,https://api.openalex.org/works?filter=author.id:A5073972555,6.0,10.0,
-https://openalex.org/A5093587867,Duncan Cassells,https://api.openalex.org/works?filter=author.id:A5093587867,1.0,5.0,FR
+https://openalex.org/A5093587867,Duncan Cassells,https://api.openalex.org/works?filter=author.id:A5093587867,1.0,6.0,FR
 https://openalex.org/A5013145810,Jean‐Philippe Cointet,https://api.openalex.org/works?filter=author.id:A5013145810,20.0,161.0,FR
 https://openalex.org/A5038676026,Maxime Crépel,https://api.openalex.org/works?filter=author.id:A5038676026,22.0,154.0,FR
 https://openalex.org/A5093329780,Tim Faverjon,https://api.openalex.org/works?filter=author.id:A5093329780,0.0,5.0,FR
@@ -379,7 +379,7 @@ https://openalex.org/A5006932859,Xihong Lu,https://api.openalex.org/works?filter
 https://openalex.org/A5084195072,Zheng Xiang,https://api.openalex.org/works?filter=author.id:A5084195072,44.0,210.0,CN
 https://openalex.org/A5022747234,Chaoqun Ni,https://api.openalex.org/works?filter=author.id:A5022747234,19.0,86.0,CN
 https://openalex.org/A5080530108,Sandro Sousa,https://api.openalex.org/works?filter=author.id:A5080530108,5.0,23.0,
-https://openalex.org/A5056242621,Roberta Sinatra,https://api.openalex.org/works?filter=author.id:A5056242621,30.0,84.0,DK
+https://openalex.org/A5056242621,Roberta Sinatra,https://api.openalex.org/works?filter=author.id:A5056242621,30.0,85.0,DK
 https://openalex.org/A5110843713,Chunliang Lei,https://api.openalex.org/works?filter=author.id:A5110843713,21.0,60.0,CN
 https://openalex.org/A5039190362,N. Sahakyan,https://api.openalex.org/works?filter=author.id:A5039190362,29.0,231.0,AM
 https://openalex.org/A5065953496,Zack Zimbalist,https://api.openalex.org/works?filter=author.id:A5065953496,6.0,14.0,AT
@@ -439,7 +439,7 @@ https://openalex.org/A5110823458,Taichi Murayama,https://api.openalex.org/works?
 https://openalex.org/A5083918574,Shiori Hironaka,https://api.openalex.org/works?filter=author.id:A5083918574,4.0,24.0,
 https://openalex.org/A5091775042,Mariana Petaccia de Macêdo,https://api.openalex.org/works?filter=author.id:A5091775042,21.0,144.0,BR
 https://openalex.org/A5073082116,Melanie Oyarzún,https://api.openalex.org/works?filter=author.id:A5073082116,3.0,4.0,CL
-https://openalex.org/A5064297795,César A. Hidalgo,https://api.openalex.org/works?filter=author.id:A5064297795,52.0,248.0,HU
+https://openalex.org/A5064297795,César A. Hidalgo,https://api.openalex.org/works?filter=author.id:A5064297795,52.0,249.0,CO
 https://openalex.org/A5014175416,Felicia Löecherbach,https://api.openalex.org/works?filter=author.id:A5014175416,8.0,23.0,
 https://openalex.org/A5086887575,Farhan Samir,https://api.openalex.org/works?filter=author.id:A5086887575,4.0,22.0,CA
 https://openalex.org/A5100608518,Chan Young Park,https://api.openalex.org/works?filter=author.id:A5100608518,37.0,112.0,KR
@@ -473,7 +473,7 @@ https://openalex.org/A5061152966,Federico Cammelli,https://api.openalex.org/work
 https://openalex.org/A5001360941,Manuel Sebastian Mariani,https://api.openalex.org/works?filter=author.id:A5001360941,14.0,65.0,CH
 https://openalex.org/A5047024225,René Algesheimer,https://api.openalex.org/works?filter=author.id:A5047024225,22.0,104.0,CH
 https://openalex.org/A5108328977,M. Tanase,https://api.openalex.org/works?filter=author.id:A5108328977,3.0,5.0,RO
-https://openalex.org/A5091548378,Masaki Chujyo,https://api.openalex.org/works?filter=author.id:A5091548378,3.0,12.0,JP
+https://openalex.org/A5091548378,Masaki Chujyo,https://api.openalex.org/works?filter=author.id:A5091548378,3.0,13.0,JP
 https://openalex.org/A5069952976,Moritz Laber,https://api.openalex.org/works?filter=author.id:A5069952976,1.0,4.0,US
 https://openalex.org/A5058731900,Alec Kirkley,https://api.openalex.org/works?filter=author.id:A5058731900,11.0,60.0,HK
 https://openalex.org/A5063493127,Gergő Tóth,https://api.openalex.org/works?filter=author.id:A5063493127,22.0,143.0,HU
@@ -689,7 +689,7 @@ https://openalex.org/A5090160801,Hendrik Nunner,https://api.openalex.org/works?f
 https://openalex.org/A5004787389,André Calero Valdez,https://api.openalex.org/works?filter=author.id:A5004787389,26.0,180.0,DE
 https://openalex.org/A5094065676,Laura Fürsich,https://api.openalex.org/works?filter=author.id:A5094065676,1.0,2.0,SE
 https://openalex.org/A5090110425,Bufan Gao,https://api.openalex.org/works?filter=author.id:A5090110425,1.0,9.0,CN
-https://openalex.org/A5014394213,Xuechunzi Bai,https://api.openalex.org/works?filter=author.id:A5014394213,13.0,46.0,US
+https://openalex.org/A5014394213,Xuechunzi Bai,https://api.openalex.org/works?filter=author.id:A5014394213,13.0,47.0,US
 https://openalex.org/A5067296366,Simone Santoni,https://api.openalex.org/works?filter=author.id:A5067296366,6.0,32.0,
 https://openalex.org/A5042273817,Matteo Devigili,https://api.openalex.org/works?filter=author.id:A5042273817,3.0,15.0,
 https://openalex.org/A5018108132,Alessandro Lomi,https://api.openalex.org/works?filter=author.id:A5018108132,35.0,187.0,CH
@@ -809,8 +809,8 @@ https://openalex.org/A5029365001,Maria Cristina de Mendonça,https://api.openale
 https://openalex.org/A5035729006,André Mata,https://api.openalex.org/works?filter=author.id:A5035729006,17.0,83.0,PT
 https://openalex.org/A5085110878,Chanshuai Han,https://api.openalex.org/works?filter=author.id:A5085110878,15.0,26.0,CA
 https://openalex.org/A5023405697,Sangpil Youm,https://api.openalex.org/works?filter=author.id:A5023405697,3.0,4.0,US
-https://openalex.org/A5002073039,Sou Hyun Jang,https://api.openalex.org/works?filter=author.id:A5002073039,13.0,81.0,KR
-https://openalex.org/A5002073039,Sou Hyun Jang,https://api.openalex.org/works?filter=author.id:A5002073039,13.0,81.0,KR
+https://openalex.org/A5002073039,Sou Hyun Jang,https://api.openalex.org/works?filter=author.id:A5002073039,13.0,82.0,KR
+https://openalex.org/A5002073039,Sou Hyun Jang,https://api.openalex.org/works?filter=author.id:A5002073039,13.0,82.0,KR
 https://openalex.org/A5080122012,Hiroki Oda,https://api.openalex.org/works?filter=author.id:A5080122012,33.0,127.0,JP
 https://openalex.org/A5055686105,Kinga Makovi,https://api.openalex.org/works?filter=author.id:A5055686105,11.0,39.0,
 https://openalex.org/A5069791094,Milena Tsvetkova,https://api.openalex.org/works?filter=author.id:A5069791094,12.0,76.0,GB
@@ -839,7 +839,7 @@ https://openalex.org/A5050678130,M. Belal Hossain,https://api.openalex.org/works
 https://openalex.org/A5100718209,Luong T. Nguyen,https://api.openalex.org/works?filter=author.id:A5100718209,46.0,122.0,VN
 https://openalex.org/A5003213649,Talayeh Aledavood,https://api.openalex.org/works?filter=author.id:A5003213649,16.0,62.0,FI
 https://openalex.org/A5009838386,Anca Balietti,https://api.openalex.org/works?filter=author.id:A5009838386,2.0,19.0,DE
-https://openalex.org/A5100783219,Hong-Yu Zhou,https://api.openalex.org/works?filter=author.id:A5100783219,50.0,291.0,US
+https://openalex.org/A5100783219,Hong-Yu Zhou,https://api.openalex.org/works?filter=author.id:A5100783219,51.0,291.0,US
 https://openalex.org/A5034565938,Thiemo Fetzer,https://api.openalex.org/works?filter=author.id:A5034565938,24.0,346.0,DE
 https://openalex.org/A5000025221,Nikolas Zöller,https://api.openalex.org/works?filter=author.id:A5000025221,4.0,10.0,DE
 https://openalex.org/A5039337520,F. Berger,https://api.openalex.org/works?filter=author.id:A5039337520,24.0,117.0,IT
@@ -939,7 +939,7 @@ https://openalex.org/A5010627833,Vittoria Offeddu,https://api.openalex.org/works
 https://openalex.org/A5028705781,Chiara Chiavenna,https://api.openalex.org/works?filter=author.id:A5028705781,6.0,21.0,
 https://openalex.org/A5046303383,Paul Mariner,https://api.openalex.org/works?filter=author.id:A5046303383,10.0,125.0,US
 https://openalex.org/A5115653580,Elena D’Agnese,https://api.openalex.org/works?filter=author.id:A5115653580,1.0,6.0,IT
-https://openalex.org/A5100786499,Deepak Sharma,https://api.openalex.org/works?filter=author.id:A5100786499,35.0,443.0,IN
+https://openalex.org/A5100786499,Deepak Sharma,https://api.openalex.org/works?filter=author.id:A5100786499,35.0,445.0,NP
 https://openalex.org/A5008132739,Aleksandra Torbica,https://api.openalex.org/works?filter=author.id:A5008132739,35.0,190.0,IT
 https://openalex.org/A5015269440,Soheil Shayegh,https://api.openalex.org/works?filter=author.id:A5015269440,16.0,81.0,IT
 https://openalex.org/A5029626997,Javier Andreu-Pérez,https://api.openalex.org/works?filter=author.id:A5029626997,22.0,120.0,GB
@@ -1164,7 +1164,7 @@ https://openalex.org/A5108353438,K. Dowling,https://api.openalex.org/works?filte
 https://openalex.org/A5016557745,Myra Miranda Bom,https://api.openalex.org/works?filter=author.id:A5016557745,1.0,21.0,
 https://openalex.org/A5038775913,Paolo Cornale,https://api.openalex.org/works?filter=author.id:A5038775913,14.0,76.0,IT
 https://openalex.org/A5044719894,Michele Tizzani,https://api.openalex.org/works?filter=author.id:A5044719894,10.0,29.0,IT
-https://openalex.org/A5011773766,Fabio Ciulla,https://api.openalex.org/works?filter=author.id:A5011773766,8.0,30.0,US
+https://openalex.org/A5011773766,Fabio Ciulla,https://api.openalex.org/works?filter=author.id:A5011773766,8.0,31.0,US
 https://openalex.org/A5025218537,Vittoria Colizza,https://api.openalex.org/works?filter=author.id:A5025218537,60.0,274.0,FR
 https://openalex.org/A5058457102,Ayan-Yue Gupta,https://api.openalex.org/works?filter=author.id:A5058457102,2.0,22.0,GB
 https://openalex.org/A5072378604,Massimo Airoldi,https://api.openalex.org/works?filter=author.id:A5072378604,8.0,42.0,IT
@@ -1181,7 +1181,7 @@ https://openalex.org/A5071725999,Ian Lundberg,https://api.openalex.org/works?fil
 https://openalex.org/A5077416098,Samantha Gold,https://api.openalex.org/works?filter=author.id:A5077416098,3.0,4.0,US
 https://openalex.org/A5052788698,Alessia Galdeman,https://api.openalex.org/works?filter=author.id:A5052788698,5.0,15.0,IT
 https://openalex.org/A5030915724,Edoardo Mampreso,https://api.openalex.org/works?filter=author.id:A5030915724,12.0,30.0,IT
-https://openalex.org/A5041273626,Diego Garlaschelli,https://api.openalex.org/works?filter=author.id:A5041273626,37.0,227.0,KR
+https://openalex.org/A5041273626,Diego Garlaschelli,https://api.openalex.org/works?filter=author.id:A5041273626,37.0,228.0,KR
 https://openalex.org/A5058144931,Rossana Mastrandrea,https://api.openalex.org/works?filter=author.id:A5058144931,13.0,47.0,
 https://openalex.org/A5005014512,Seeun Kim,https://api.openalex.org/works?filter=author.id:A5005014512,18.0,93.0,KR
 https://openalex.org/A5067906949,Dali Zeng,https://api.openalex.org/works?filter=author.id:A5067906949,56.0,213.0,CN
@@ -1355,7 +1355,7 @@ https://openalex.org/A5059509038,Silvia Giordano,https://api.openalex.org/works?
 https://openalex.org/A5010677626,Shuhei Kurizaki,https://api.openalex.org/works?filter=author.id:A5010677626,6.0,12.0,JP
 https://openalex.org/A5060256587,Claudia Acciai,https://api.openalex.org/works?filter=author.id:A5060256587,5.0,17.0,DK
 https://openalex.org/A5087293181,Natalie Schroyens,https://api.openalex.org/works?filter=author.id:A5087293181,9.0,36.0,US
-https://openalex.org/A5064171835,Mathias Wullum Nielsen,https://api.openalex.org/works?filter=author.id:A5064171835,22.0,99.0,DK
+https://openalex.org/A5064171835,Mathias Wullum Nielsen,https://api.openalex.org/works?filter=author.id:A5064171835,22.0,100.0,DK
 https://openalex.org/A5019218689,Cameron Lai,https://api.openalex.org/works?filter=author.id:A5019218689,2.0,8.0,JP
 https://openalex.org/A5100673667,Shi‐Gang Sun,https://api.openalex.org/works?filter=author.id:A5100673667,115.0,1013.0,CN
 https://openalex.org/A5046305810,Sabina Tomkins,https://api.openalex.org/works?filter=author.id:A5046305810,7.0,45.0,US
@@ -1394,8 +1394,8 @@ https://openalex.org/A5025826537,Krzysztof Stępień,https://api.openalex.org/wo
 https://openalex.org/A5122308898,Michalina Janik,https://api.openalex.org/works?filter=author.id:A5122308898,0.0,2.0,
 https://openalex.org/A5001887300,Mateusz Nurek,https://api.openalex.org/works?filter=author.id:A5001887300,3.0,12.0,
 https://openalex.org/A5055236010,Akrati Saxena,https://api.openalex.org/works?filter=author.id:A5055236010,12.0,88.0,NL
-https://openalex.org/A5089195241,Radosław Michalski,https://api.openalex.org/works?filter=author.id:A5089195241,21.0,70.0,PL
-https://openalex.org/A5067456203,Samuel Martín-Gutíerrez,https://api.openalex.org/works?filter=author.id:A5067456203,7.0,28.0,
+https://openalex.org/A5056931132,Radosław Michalski,https://api.openalex.org/works?filter=author.id:A5056931132,17.0,107.0,
+https://openalex.org/A5067456203,Samuel Martín-Gutíerrez,https://api.openalex.org/works?filter=author.id:A5067456203,7.0,28.0,AT
 https://openalex.org/A5012591564,Roberta Angelico,https://api.openalex.org/works?filter=author.id:A5012591564,26.0,155.0,
 https://openalex.org/A5030190071,Chenwen Huang,https://api.openalex.org/works?filter=author.id:A5030190071,3.0,6.0,CN
 https://openalex.org/A5036320427,Yasin Yılmaz,https://api.openalex.org/works?filter=author.id:A5036320427,24.0,185.0,TR
@@ -1432,7 +1432,7 @@ https://openalex.org/A5061221995,Davide Beraldo,https://api.openalex.org/works?f
 https://openalex.org/A5123681003,Valeria Rainero,https://api.openalex.org/works?filter=author.id:A5123681003,0.0,1.0,
 https://openalex.org/A5074231430,Ruud Luijkx,https://api.openalex.org/works?filter=author.id:A5074231430,30.0,175.0,
 https://openalex.org/A5116019828,Niclas Frederic Sturm,https://api.openalex.org/works?filter=author.id:A5116019828,1.0,2.0,PT
-https://openalex.org/A5075717967,Cristián Candia,https://api.openalex.org/works?filter=author.id:A5075717967,8.0,57.0,US
+https://openalex.org/A5075717967,Cristián Candia,https://api.openalex.org/works?filter=author.id:A5075717967,8.0,58.0,US
 https://openalex.org/A5002552451,Bruno Figueiredo Damásio,https://api.openalex.org/works?filter=author.id:A5002552451,23.0,98.0,BR
 https://openalex.org/A5056296020,Flávio L. Pinheiro,https://api.openalex.org/works?filter=author.id:A5056296020,21.0,104.0,PT
 https://openalex.org/A5107662833,Daniel Juhász Vigild,https://api.openalex.org/works?filter=author.id:A5107662833,1.0,1.0,DK
@@ -1457,7 +1457,7 @@ https://openalex.org/A5020804251,Giordano De Marzo,https://api.openalex.org/work
 https://openalex.org/A5100369134,Taehee Kim,https://api.openalex.org/works?filter=author.id:A5100369134,27.0,87.0,KR
 https://openalex.org/A5054129638,H. Metzler,https://api.openalex.org/works?filter=author.id:A5054129638,23.0,145.0,SE
 https://openalex.org/A5011976528,Ben Lasse Wolf,https://api.openalex.org/works?filter=author.id:A5011976528,0.0,3.0,DE
-https://openalex.org/A5101667175,Na Jiang,https://api.openalex.org/works?filter=author.id:A5101667175,29.0,234.0,JP
+https://openalex.org/A5101667175,Na Jiang,https://api.openalex.org/works?filter=author.id:A5101667175,29.0,235.0,JP
 https://openalex.org/A5079920605,Pong C. Yuen,https://api.openalex.org/works?filter=author.id:A5079920605,64.0,345.0,HK
 https://openalex.org/A5049314735,Andrew Crooks,https://api.openalex.org/works?filter=author.id:A5049314735,42.0,210.0,
 https://openalex.org/A5113390774,Ruggero Marino Lazzaroni,https://api.openalex.org/works?filter=author.id:A5113390774,1.0,2.0,DE
@@ -1481,12 +1481,12 @@ https://openalex.org/A5060009020,Travis Coan,https://api.openalex.org/works?filt
 https://openalex.org/A5071226975,Saffron O’Neill,https://api.openalex.org/works?filter=author.id:A5071226975,36.0,91.0,GB
 https://openalex.org/A5029718403,Hywel T. P. Williams,https://api.openalex.org/works?filter=author.id:A5029718403,29.0,111.0,GB
 https://openalex.org/A5086011172,Agnieszka Czaplicka,https://api.openalex.org/works?filter=author.id:A5086011172,6.0,23.0,PL
-https://openalex.org/A5011769443,Román Scoccimarro,https://api.openalex.org/works?filter=author.id:A5011769443,69.0,133.0,US
+https://openalex.org/A5046927655,Fabian Baumann,https://api.openalex.org/works?filter=author.id:A5046927655,15.0,63.0,US
 https://openalex.org/A5050750056,Thomas Chesney,https://api.openalex.org/works?filter=author.id:A5050750056,17.0,109.0,
 https://openalex.org/A5004333240,Tahmineh Godazgar,https://api.openalex.org/works?filter=author.id:A5004333240,1.0,1.0,IR
 https://openalex.org/A5045790313,Diogo M. Geraldes,https://api.openalex.org/works?filter=author.id:A5045790313,9.0,15.0,
 https://openalex.org/A5012128678,Max R. P. Grossmann,https://api.openalex.org/works?filter=author.id:A5012128678,2.0,9.0,DE
-https://openalex.org/A5115588111,Mengmeng Wu,https://api.openalex.org/works?filter=author.id:A5115588111,113.0,938.0,US
+https://openalex.org/A5115588111,Mengmeng Wu,https://api.openalex.org/works?filter=author.id:A5115588111,113.0,937.0,US
 https://openalex.org/A5068231975,Wifag Adnan,https://api.openalex.org/works?filter=author.id:A5068231975,7.0,30.0,US
 https://openalex.org/A5028806505,Kerstin Ostermann,https://api.openalex.org/works?filter=author.id:A5028806505,3.0,16.0,DE
 https://openalex.org/A5100331317,Nan Zhang,https://api.openalex.org/works?filter=author.id:A5100331317,78.0,382.0,CN
